@@ -1,0 +1,6 @@
+/Users/sandrayakimova/Projects/inter2/inter2/bin/Debug/inter2.exe
+/Users/sandrayakimova/Projects/inter2/inter2/bin/Debug/inter2.pdb
+/Users/sandrayakimova/Projects/inter2/inter2/obj/x86/Debug/inter2.csprojAssemblyReference.cache
+/Users/sandrayakimova/Projects/inter2/inter2/obj/x86/Debug/inter2.csproj.CoreCompileInputs.cache
+/Users/sandrayakimova/Projects/inter2/inter2/obj/x86/Debug/inter2.exe
+/Users/sandrayakimova/Projects/inter2/inter2/obj/x86/Debug/inter2.pdb
